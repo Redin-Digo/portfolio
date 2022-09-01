@@ -123,6 +123,7 @@ p {
   }
 
   .primary-link {
+    display: block;
     text-align: center;
   }
 }

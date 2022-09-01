@@ -131,4 +131,8 @@ p {
     text-align: center;
     margin: 0 30px;
   }
+
+  .primary-link:hover {
+    color: white;
+  }
 }

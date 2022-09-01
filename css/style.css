@@ -110,9 +110,3 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-
-@media (min-width: 300px) {
-  img {
-    display: none;
-  }
-}

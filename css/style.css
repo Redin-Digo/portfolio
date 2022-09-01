@@ -124,13 +124,6 @@ p {
 
   .primary-link {
     display: block;
-    text-align: center;
-    border-radius: 4px;
-    padding: 20px 15px;
-    text-decoration: none;
-    text-transform: capitalize;
-    background: var(--primary-color);
-    box-shadow: var(--box-shadow);
-    color: white;
+    margin: 0 auto;
   }
 }
